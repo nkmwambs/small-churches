@@ -1,0 +1,71 @@
+staff_name,department,is_departmement_manager,is_devotion_committee,old_group,new_group
+"Andy Huel",IT,no,no,Group_4,Group_1
+"Dr. Maye Deckow II",Logistics,no,no,Group_4,Group_2
+"Mr. Hobart Little DVM",Finance,no,no,Group_4,Group_3
+"Ebony Fay",IT,yes,no,Group_4,Group_4
+"Jarrod Auer",Finance,no,no,Group_4,Group_5
+"Kiera Hettinger",Logistics,no,no,Group_4,Group_1
+"Prof. Paolo Hayes Sr.",Logistics,no,no,Group_4,Group_2
+"Prof. Sonny Reinger",HR,no,no,Group_4,Group_3
+"Aditya Stroman",Logistics,no,no,Group_4,Group_4
+"Miss Kaylah Bins I",Marketing,no,no,Group_4,Group_5
+"Prof. Odell Ziemann",HR,no,no,Group_4,Group_1
+"Una Friesen",Marketing,no,no,Group_4,Group_2
+"Prof. Raven Grimes Sr.",Logistics,no,no,Group_4,Group_3
+"Dr. Raleigh Volkman",IT,no,no,Group_4,Group_4
+"Prof. Kraig Howell Sr.",IT,no,no,Group_4,Group_5
+"Gregorio Berge",Finance,no,yes,Group_4,Group_1
+"Jeramie Hilpert Sr.",Marketing,no,no,Group_4,Group_2
+"Norval Lubowitz",Logistics,yes,no,Group_5,Group_3
+"Dr. Dejon Stokes",Logistics,no,no,Group_5,Group_4
+"Prof. Marta Windler Sr.",Logistics,no,no,Group_5,Group_5
+"Colt Gottlieb I",Logistics,no,no,Group_5,Group_1
+"Lonie Cronin",Logistics,no,no,Group_5,Group_2
+"Eriberto Walker",Logistics,no,no,Group_5,Group_3
+"Velva Jast",Marketing,no,no,Group_5,Group_4
+"Mr. Giovanni McGlynn",Logistics,no,no,Group_5,Group_5
+"Kiarra O'Hara IV",Marketing,no,no,Group_5,Group_1
+"Holden Ward",Logistics,no,no,Group_5,Group_2
+"Miss Carolyne Hahn",Logistics,no,no,Group_5,Group_3
+"Prof. Russell Osinski PhD",Finance,no,no,Group_5,Group_4
+"Mr. Giovanni McGlynn",Logistics,no,no,Group_5,Group_5
+"Glenda Kris DVM",HR,no,no,Group_5,Group_1
+"Queenie Rogahn",IT,no,no,Group_5,Group_2
+"Lucy Bradtke",HR,no,no,Group_5,Group_3
+"Baby Kris",Marketing,yes,no,Group_5,Group_4
+"Wyman Kuhn",IT,no,no,Group_5,Group_5
+"Abbigail Waelchi",Logistics,no,no,Group_5,Group_1
+"Dallin Cummings",Marketing,no,yes,Group_5,Group_2
+"Hilario Spencer",IT,no,no,Group_5,Group_3
+"Ramiro Zulauf",HR,no,no,Group_2,Group_4
+"Gennaro Rodriguez",Logistics,no,no,Group_2,Group_5
+"Heloise Sipes",Marketing,no,yes,Group_2,Group_1
+"Curt Douglas",Finance,no,no,Group_2,Group_2
+"Alanis Swaniawski Sr.",Logistics,no,no,Group_2,Group_3
+"Erik Spencer",Marketing,no,no,Group_2,Group_4
+"Eulalia Armstrong I",IT,no,yes,Group_2,Group_5
+"Yoshiko Stanton",HR,no,no,Group_2,Group_1
+"Marc Wiza",Logistics,no,yes,Group_2,Group_2
+"Dr. Beverly O'Connell I",IT,no,no,Group_2,Group_3
+"Ezra Mraz",Finance,no,no,Group_2,Group_4
+"Dr. Sammy Lemke DVM",IT,no,no,Group_2,Group_5
+"Mavis Dickinson",HR,no,no,Group_2,Group_1
+"Ms. Vernie Pacocha DDS",Marketing,no,no,Group_2,Group_2
+"Roman Walsh",Marketing,no,no,Group_2,Group_3
+"Hubert Mitchell",Logistics,no,no,Group_2,Group_4
+"Ramiro Zulauf",HR,no,no,Group_2,Group_4
+"Gennaro Rodriguez",Logistics,no,no,Group_2,Group_5
+"Heloise Sipes",Marketing,no,yes,Group_2,Group_1
+"Curt Douglas",Finance,no,no,Group_2,Group_2
+"Alanis Swaniawski Sr.",Logistics,no,no,Group_2,Group_3
+"Erik Spencer",Marketing,no,no,Group_2,Group_4
+"Eulalia Armstrong I",IT,no,yes,Group_2,Group_5
+"Yoshiko Stanton",HR,no,no,Group_2,Group_1
+"Marc Wiza",Logistics,no,yes,Group_2,Group_2
+"Dr. Beverly O'Connell I",IT,no,no,Group_2,Group_3
+"Ezra Mraz",Finance,no,no,Group_2,Group_4
+"Dr. Sammy Lemke DVM",IT,no,no,Group_2,Group_5
+"Mavis Dickinson",HR,no,no,Group_2,Group_1
+"Ms. Vernie Pacocha DDS",Marketing,no,no,Group_2,Group_2
+"Roman Walsh",Marketing,no,no,Group_2,Group_3
+"Hubert Mitchell",Logistics,no,no,Group_2,Group_4

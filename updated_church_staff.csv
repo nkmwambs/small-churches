@@ -1,0 +1,101 @@
+staff_name,department,is_departmement_manager,is_devotion_committee,old_group,new_group
+"Prof. Kraig Howell Sr.",IT,no,no,Group_4,1
+"Una Friesen",Marketing,no,no,Group_4,1
+"Jeramie Hilpert Sr.",Marketing,no,no,Group_4,1
+"Mr. Hobart Little DVM",Finance,no,no,Group_4,2
+"Prof. Raven Grimes Sr.",Logistics,no,no,Group_4,2
+"Jarrod Auer",Finance,no,no,Group_4,2
+"Gregorio Berge",Finance,no,yes,Group_4,3
+"Miss Kaylah Bins I",Marketing,no,no,Group_4,3
+"Ebony Fay",IT,yes,no,Group_4,3
+"Prof. Paolo Hayes Sr.",Logistics,no,no,Group_4,4
+"Dr. Maye Deckow II",Logistics,no,no,Group_4,4
+"Dr. Raleigh Volkman",IT,no,no,Group_4,4
+"Prof. Sonny Reinger",HR,no,no,Group_4,5
+"Kiera Hettinger",Logistics,no,no,Group_4,5
+"Andy Huel",IT,no,no,Group_4,5
+"Aditya Stroman",Logistics,no,no,Group_4,6
+"Prof. Odell Ziemann",HR,no,no,Group_4,6
+"Dr. Dejon Stokes",Logistics,no,no,Group_5,6
+"Prof. Marta Windler Sr.",Logistics,no,no,Group_5,6
+"Wyman Kuhn",IT,no,no,Group_5,6
+"Eriberto Walker",Logistics,no,no,Group_5,7
+"Mr. Giovanni McGlynn",Logistics,no,no,Group_5,7
+"Lonie Cronin",Logistics,no,no,Group_5,7
+"Colt Gottlieb I",Logistics,no,no,Group_5,8
+"Miss Carolyne Hahn",Logistics,no,no,Group_5,8
+"Dallin Cummings",Marketing,no,yes,Group_5,8
+"Kiarra O'Hara IV",Marketing,no,no,Group_5,9
+"Hilario Spencer",IT,no,no,Group_5,9
+"Queenie Rogahn",IT,no,no,Group_5,9
+"Holden Ward",Logistics,no,no,Group_5,10
+"Abbigail Waelchi",Logistics,no,no,Group_5,10
+"Mr. Giovanni McGlynn",Logistics,no,no,Group_5,10
+"Lucy Bradtke",HR,no,no,Group_5,11
+"Velva Jast",Marketing,no,no,Group_5,11
+"Norval Lubowitz",Logistics,yes,no,Group_5,11
+"Prof. Russell Osinski PhD",Finance,no,no,Group_5,12
+"Glenda Kris DVM",HR,no,no,Group_5,12
+"Baby Kris",Marketing,yes,no,Group_5,12
+"Marc Wiza",Logistics,no,yes,Group_2,12
+"Heloise Sipes",Marketing,no,yes,Group_2,12
+"Yoshiko Stanton",HR,no,no,Group_2,12
+"Curt Douglas",Finance,no,no,Group_2,13
+"Roman Walsh",Marketing,no,no,Group_2,13
+"Ms. Vernie Pacocha DDS",Marketing,no,no,Group_2,13
+"Hubert Mitchell",Logistics,no,no,Group_2,14
+"Erik Spencer",Marketing,no,no,Group_2,14
+"Ezra Mraz",Finance,no,no,Group_2,14
+"Gennaro Rodriguez",Logistics,no,no,Group_2,15
+"Ramiro Zulauf",HR,no,no,Group_2,15
+"Mavis Dickinson",HR,no,no,Group_2,15
+"Alanis Swaniawski Sr.",Logistics,no,no,Group_2,16
+"Dr. Beverly O'Connell I",IT,no,no,Group_2,16
+"Dr. Sammy Lemke DVM",IT,no,no,Group_2,16
+"Eulalia Armstrong I",IT,no,yes,Group_2,17
+"Doyle Moore",Logistics,no,no,Group_3,17
+"Kamron Stiedemann II",HR,no,no,Group_3,17
+"Malvina White",Finance,no,no,Group_3,17
+"Sophia Cremin Sr.",IT,no,no,Group_3,18
+"Mrs. Barbara Howe",Finance,no,no,Group_3,18
+"Jailyn Stroman",Marketing,no,no,Group_3,18
+"Anibal O'Hara",Finance,yes,no,Group_3,19
+"Rhiannon Effertz PhD",Finance,no,no,Group_3,19
+"Willow Bauch",Marketing,no,no,Group_3,19
+"Murl Zboncak DVM",IT,no,no,Group_3,20
+"Nelle Volkman",IT,no,no,Group_3,20
+"Dortha Kutch",IT,no,no,Group_3,20
+"Ward Hauck",Logistics,no,no,Group_3,21
+"Coby Lehner",HR,no,no,Group_3,21
+"Prof. Kiera Hills",HR,yes,no,Group_3,21
+"Rae Hickle",Marketing,no,yes,Group_3,22
+"Dr. Hollie Turner",HR,no,no,Group_3,22
+"Antonietta Schneider",Marketing,no,no,Group_3,22
+"Leora Weber II",Marketing,no,no,Group_3,23
+"Cedrick O'Hara Jr.",Finance,no,no,Group_3,23
+"Audrey Ferry",Finance,no,no,Group_3,23
+"Daniella Greenholt IV",Marketing,no,no,Group_3,24
+"Andreanne Block V",Finance,no,no,Group_3,24
+"Doyle Moore",Logistics,no,no,Group_3,24
+"Kamron Stiedemann II",HR,no,no,Group_3,25
+"Malvina White",Finance,no,no,Group_3,25
+"Sophia Cremin Sr.",IT,no,no,Group_3,25
+"Mrs. Barbara Howe",Finance,no,no,Group_3,26
+"Jailyn Stroman",Marketing,no,no,Group_3,26
+"Anibal O'Hara",Finance,yes,no,Group_3,26
+"Rhiannon Effertz PhD",Finance,no,no,Group_3,27
+"Willow Bauch",Marketing,no,no,Group_3,27
+"Murl Zboncak DVM",IT,no,no,Group_3,27
+"Nelle Volkman",IT,no,no,Group_3,28
+"Dortha Kutch",IT,no,no,Group_3,28
+"Ward Hauck",Logistics,no,no,Group_3,28
+"Coby Lehner",HR,no,no,Group_3,29
+"Prof. Kiera Hills",HR,yes,no,Group_3,29
+"Rae Hickle",Marketing,no,yes,Group_3,29
+"Dr. Hollie Turner",HR,no,no,Group_3,30
+"Antonietta Schneider",Marketing,no,no,Group_3,30
+"Leora Weber II",Marketing,no,no,Group_3,30
+"Cedrick O'Hara Jr.",Finance,no,no,Group_3,31
+"Audrey Ferry",Finance,no,no,Group_3,31
+"Daniella Greenholt IV",Marketing,no,no,Group_3,31
+"Daniella Greenholt IV",Marketing,no,no,Group_3,32

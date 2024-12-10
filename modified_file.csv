@@ -1,0 +1,101 @@
+staff_no,staff_name,department,is_departmement_manager,is_devotion_committee,old_group,new_group
+1,"Prof. Kraig Howell Sr.",IT,no,no,Group_4,Group_10
+2,"Una Friesen",Marketing,no,no,Group_4,Group_5
+3,"Jeramie Hilpert Sr.",Marketing,no,no,Group_4,Group_8
+4,"Mr. Hobart Little DVM",Finance,no,no,Group_4,Group_6
+5,"Prof. Raven Grimes Sr.",Logistics,no,no,Group_4,Group_8
+6,"Jarrod Auer",Finance,no,no,Group_4,Group_10
+7,"Gregorio Berge",Finance,no,yes,Group_4,Group_6
+8,"Miss Kaylah Bins I",Marketing,no,no,Group_4,Group_2
+9,"Ebony Fay",IT,yes,no,Group_4,Group_1
+10,"Prof. Paolo Hayes Sr.",Logistics,no,no,Group_4,Group_3
+11,"Dr. Maye Deckow II",Logistics,no,no,Group_4,Group_4
+12,"Dr. Raleigh Volkman",IT,no,no,Group_4,Group_9
+13,"Prof. Sonny Reinger",HR,no,no,Group_4,Group_3
+14,"Kiera Hettinger",Logistics,no,no,Group_4,Group_2
+15,"Andy Huel",IT,no,no,Group_4,Group_5
+16,"Aditya Stroman",Logistics,no,no,Group_4,Group_6
+17,"Prof. Odell Ziemann",HR,no,no,Group_4,Group_10
+18,"Dr. Dejon Stokes",Logistics,no,no,Group_5,Group_8
+19,"Prof. Marta Windler Sr.",Logistics,no,no,Group_5,Group_7
+20,"Wyman Kuhn",IT,no,no,Group_5,Group_1
+21,"Eriberto Walker",Logistics,no,no,Group_5,Group_5
+22,"Mr. Giovanni McGlynn",Logistics,no,no,Group_5,Group_2
+23,"Lonie Cronin",Logistics,no,no,Group_5,Group_3
+24,"Colt Gottlieb I",Logistics,no,no,Group_5,Group_1
+25,"Miss Carolyne Hahn",Logistics,no,no,Group_5,Group_4
+26,"Dallin Cummings",Marketing,no,yes,Group_5,Group_1
+27,"Kiarra O'Hara IV",Marketing,no,no,Group_5,Group_6
+28,"Hilario Spencer",IT,no,no,Group_5,Group_2
+29,"Queenie Rogahn",IT,no,no,Group_5,Group_7
+30,"Holden Ward",Logistics,no,no,Group_5,Group_9
+31,"Abbigail Waelchi",Logistics,no,no,Group_5,Group_10
+32,"Mr. Giovanni McGlynn",Logistics,no,no,Group_5,Group_7
+33,"Lucy Bradtke",HR,no,no,Group_5,Group_3
+34,"Velva Jast",Marketing,no,no,Group_5,Group_4
+35,"Norval Lubowitz",Logistics,yes,no,Group_5,Group_10
+36,"Prof. Russell Osinski PhD",Finance,no,no,Group_5,Group_5
+37,"Glenda Kris DVM",HR,no,no,Group_5,Group_2
+38,"Baby Kris",Marketing,yes,no,Group_5,Group_9
+39,"Marc Wiza",Logistics,no,yes,Group_2,Group_4
+40,"Heloise Sipes",Marketing,no,yes,Group_2,Group_3
+41,"Yoshiko Stanton",HR,no,no,Group_2,Group_5
+42,"Curt Douglas",Finance,no,no,Group_2,Group_1
+43,"Roman Walsh",Marketing,no,no,Group_2,Group_5
+44,"Ms. Vernie Pacocha DDS",Marketing,no,no,Group_2,Group_9
+45,"Hubert Mitchell",Logistics,no,no,Group_2,Group_10
+46,"Erik Spencer",Marketing,no,no,Group_2,Group_8
+47,"Ezra Mraz",Finance,no,no,Group_2,Group_2
+48,"Gennaro Rodriguez",Logistics,no,no,Group_2,Group_5
+49,"Ramiro Zulauf",HR,no,no,Group_2,Group_1
+50,"Mavis Dickinson",HR,no,no,Group_2,Group_6
+51,"Alanis Swaniawski Sr.",Logistics,no,no,Group_2,Group_6
+52,"Dr. Beverly O'Connell I",IT,no,no,Group_2,Group_3
+53,"Dr. Sammy Lemke DVM",IT,no,no,Group_2,Group_7
+54,"Eulalia Armstrong I",IT,no,yes,Group_2,Group_10
+55,"Doyle Moore",Logistics,no,no,Group_3,Group_4
+56,"Kamron Stiedemann II",HR,no,no,Group_3,Group_6
+57,"Malvina White",Finance,no,no,Group_3,Group_7
+58,"Sophia Cremin Sr.",IT,no,no,Group_3,Group_5
+59,"Mrs. Barbara Howe",Finance,no,no,Group_3,Group_2
+60,"Jailyn Stroman",Marketing,no,no,Group_3,Group_8
+61,"Anibal O'Hara",Finance,yes,no,Group_3,Group_7
+62,"Rhiannon Effertz PhD",Finance,no,no,Group_3,Group_6
+63,"Willow Bauch",Marketing,no,no,Group_3,Group_2
+64,"Murl Zboncak DVM",IT,no,no,Group_3,Group_1
+65,"Nelle Volkman",IT,no,no,Group_3,Group_7
+66,"Dortha Kutch",IT,no,no,Group_3,Group_2
+67,"Ward Hauck",Logistics,no,no,Group_3,Group_10
+68,"Coby Lehner",HR,no,no,Group_3,Group_2
+69,"Prof. Kiera Hills",HR,yes,no,Group_3,Group_8
+70,"Rae Hickle",Marketing,no,yes,Group_3,Group_5
+71,"Dr. Hollie Turner",HR,no,no,Group_3,Group_1
+72,"Antonietta Schneider",Marketing,no,no,Group_3,Group_4
+73,"Leora Weber II",Marketing,no,no,Group_3,Group_6
+74,"Cedrick O'Hara Jr.",Finance,no,no,Group_3,Group_9
+75,"Audrey Ferry",Finance,no,no,Group_3,Group_8
+76,"Daniella Greenholt IV",Marketing,no,no,Group_3,Group_1
+77,"Andreanne Block V",Finance,no,no,Group_3,Group_10
+78,"Doyle Moore",Logistics,no,no,Group_3,Group_3
+79,"Kamron Stiedemann II",HR,no,no,Group_3,Group_10
+80,"Malvina White",Finance,no,no,Group_3,Group_7
+81,"Sophia Cremin Sr.",IT,no,no,Group_3,Group_8
+82,"Mrs. Barbara Howe",Finance,no,no,Group_3,Group_8
+83,"Jailyn Stroman",Marketing,no,no,Group_3,Group_3
+84,"Anibal O'Hara",Finance,yes,no,Group_3,Group_9
+85,"Rhiannon Effertz PhD",Finance,no,no,Group_3,Group_9
+86,"Willow Bauch",Marketing,no,no,Group_3,Group_1
+87,"Murl Zboncak DVM",IT,no,no,Group_3,Group_5
+88,"Nelle Volkman",IT,no,no,Group_3,Group_3
+89,"Dortha Kutch",IT,no,no,Group_3,Group_6
+90,"Ward Hauck",Logistics,no,no,Group_3,Group_5
+91,"Coby Lehner",HR,no,no,Group_3,Group_9
+92,"Prof. Kiera Hills",HR,yes,no,Group_3,Group_3
+93,"Rae Hickle",Marketing,no,yes,Group_3,Group_8
+94,"Dr. Hollie Turner",HR,no,no,Group_3,Group_1
+95,"Antonietta Schneider",Marketing,no,no,Group_3,Group_6
+96,"Leora Weber II",Marketing,no,no,Group_3,Group_7
+97,"Cedrick O'Hara Jr.",Finance,no,no,Group_3,Group_4
+98,"Audrey Ferry",Finance,no,no,Group_3,Group_8
+99,"Daniella Greenholt IV",Marketing,no,no,Group_3,Group_3
+99,"Daniella Greenholt IV",Marketing,no,no,Group_3,Group_3
